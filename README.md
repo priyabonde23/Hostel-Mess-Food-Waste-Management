@@ -1,17 +1,18 @@
-# 🍽️ Hostel Mess Food Waste Management
+# 🍽️ Hostel Mess Food Waste Management (Consumption Prediction)
 
 ## 📌 Project Description
-This project focuses on analyzing food consumption patterns in a hostel mess to reduce food waste. It helps in identifying trends and improving resource management using data analysis and visualization.
+This project focuses on analyzing and predicting food consumption patterns in a hostel mess to reduce food waste. It uses data analysis and basic prediction techniques to identify trends and improve resource management.
 
 ## 🎯 Objectives
 - Reduce food wastage in hostel mess
-- Analyze daily food consumption
+- Analyze and predict daily food consumption
 - Identify patterns and trends
 - Improve mess management efficiency
 
 ## ⚙️ Features
 - Data visualization using graphs
 - Day-wise food consumption analysis
+- Food consumption prediction
 - Waste pattern identification
 - Simple and easy-to-understand insights
 
@@ -30,29 +31,32 @@ This project focuses on analyzing food consumption patterns in a hostel mess to 
    The dataset was loaded using Pandas.
 
 3. Data Preprocessing  
-   The system checked for Date or Days column and created useful features for analysis.
+   The system checked for Date or Days column and created useful features.
 
 4. Data Analysis  
-   Food consumption patterns were analyzed to identify wastage trends.
+   Patterns in food consumption were analyzed.
 
-5. Data Visualization  
+5. Prediction  
+   Based on past data, food consumption trends were predicted.
+
+6. Data Visualization  
    Graphs were generated using Matplotlib and Seaborn.
 
-6. Result  
-   The project provided useful insights to reduce food waste and improve mess management.
+7. Result  
+   The system helps in predicting food demand and reducing wastage.
 
 ## 📊 Output
-- Graphs showing food consumption trends
-- Day-wise analysis
-- Insights for reducing food waste
+- Graphs showing food consumption trends  
+- Predicted consumption patterns  
+- Insights for reducing food waste  
 
 ## 🚀 Future Scope
-- Real-time data tracking system
-- Machine learning-based prediction
-- Web-based dashboard
+- Advanced machine learning models  
+- Real-time prediction system  
+- Web-based dashboard  
 
 ## 📌 Conclusion
-This project helps in understanding food consumption behavior and provides insights to reduce food waste effectively in hostel mess systems.
+This project helps in analyzing and predicting food consumption behavior, which can significantly reduce food waste in hostel mess systems.
 
 ## 👩‍💻 Author
 Priya Bonde
